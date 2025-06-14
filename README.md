@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 ------------
 
-Motivated and detail-oriented aspiring data analyst with a strong foundation in computer science and problem-solving. Passionate about using data to uncover insights, drive decision-making, and solve real-world challenges. Eager to apply newly acquired skills in SQL, Excel, and Python to contribute to data-driven solutions and grow in the dynamic field of data analytics.
+Motivated and detail-oriented aspiring front-end web developer with a strong foundation in computer science and user-centered design. Passionate about creating responsive, interactive, and visually appealing web applications. Skilled in HTML, CSS, JavaScript, and React, with growing expertise in the MERN stack (MongoDB, Express.js, React, Node.js). Eager to apply these skills to real-world projects, contribute to meaningful digital experiences, and grow in the fast-evolving world of web development.
+
+
 
 * ✉️  You can contact me at [naveensri.elsa@gmail.com](mailto:naveensri.elsa@gmail.com)
 
