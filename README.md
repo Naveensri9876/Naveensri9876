@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naveensri D
 ===================================================================================================================================
-
-Data Analyst
+Web Developer
 ------------
 
 Motivated and detail-oriented aspiring data analyst with a strong foundation in computer science and problem-solving. Passionate about using data to uncover insights, drive decision-making, and solve real-world challenges. Eager to apply newly acquired skills in SQL, Excel, and Python to contribute to data-driven solutions and grow in the dynamic field of data analytics.
